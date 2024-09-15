@@ -15,7 +15,7 @@ Welcome to **SpaceShip THEME**, a high-contrast theme for Visual Studio Code wit
 
 #### Editor
 
-![Editor Example]("")
+![Editor Example]("https://github.com/PAJAR1T0/SpaceShip-theme/blob/main/assets/screenshot.png")
 
 ### 📦 Installation
 
@@ -31,7 +31,7 @@ Welcome to **SpaceShip THEME**, a high-contrast theme for Visual Studio Code wit
 If you want to make changes or contribute to the theme:
 
 1. Clone this repository.
-   ```bash
-   git clone https://github.com/your-username/spaceship-theme.git
-
+```bash
+git clone https://github.com/PAJAR1T0/SpaceShip-theme.git
+```
 
