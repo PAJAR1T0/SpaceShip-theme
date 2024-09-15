@@ -1,5 +1,5 @@
 # **✨🚀SpaceShip theme🚀✨**
-
+![Space-Ilustration](https://raw.githubusercontent.com/PAJAR1T0/SpaceShip-theme/main/assets/space.png)
 ## A HIGH CONTRAST VS-CODE THEME
 Welcome to **SpaceShip THEME**, a high-contrast theme for Visual Studio Code with a completely black background, designed to enhance readability and reduce eye strain. This theme is ideal for those who prefer a dark and high-contrast design, especially in low-light environments or for those looking for a minimalist visual approach.
 
