@@ -6,6 +6,9 @@
   "engines": {
     "vscode": "^1.93.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PAJAR1T0/SpaceShip-theme.git"},
   "icon": "./assets/icon.png",
   "categories": [
     "Themes"
