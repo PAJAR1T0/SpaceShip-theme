@@ -1,11 +1,12 @@
 {
   "name": "spaceship-theme",
   "displayName": "SpaceShip theme",
-  "description": "",
+  "description": "High-contrast theme for Visual Studio Code with a completely black background, designed to enhance readability and reduce eye strain.",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.93.0"
   },
+  "publisher": "PAJARITO",
   "repository": {
     "type": "git",
     "url": "https://github.com/PAJAR1T0/SpaceShip-theme.git"},
