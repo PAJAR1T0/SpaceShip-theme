@@ -197,6 +197,13 @@
         }
       },
       {
+        "name": "JavaScript/TypeScript Properties and Methods",
+        "scope": "entity.name.function.ts, meta.function-call.ts, new.expr.ts, meta.var.expr.ts, source.ts",
+        "settings": {
+          "foreground": "#ff6d55"
+        }
+      },
+      {
         "name": "js/ts variable.other.constant",
         "scope": "variable.other.constant",
         "settings": {
@@ -613,7 +620,7 @@
         "name": "Classes",
         "scope": "support.class, entity.name.type.class",
         "settings": {
-          "foreground": "#00ffc3"
+          "foreground": "#f3ff5f"
         }
       },
       {
@@ -631,7 +638,7 @@
           "variable.other.class.ts"
         ],
         "settings": {
-          "foreground": "#00ffc3"
+          "foreground": "#ff6d55"
         }
       },
       {
