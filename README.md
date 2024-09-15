@@ -32,7 +32,7 @@ git clone https://github.com/PAJAR1T0/SpaceShip-theme.git
 code spaceship-theme
 ```
 
-3. Make your changes in the themes/SpaceShip THEME-color-theme.json file.
+3. Make your changes in the themes/SpaceShip-color-theme.json file.
 
 4. Preview your changes in a live VS Code window using the F5 key (Extension Development Mode).
 
