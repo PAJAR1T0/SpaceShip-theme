@@ -1,0 +1,21 @@
+{
+  "name": "spaceship-theme",
+  "displayName": "SpaceShip theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SpaceShip theme",
+        "uiTheme": "hc-black",
+        "path": "./themes/SpaceShip-color-theme.json"
+      }
+    ]
+  }
+}
