@@ -2106,6 +2106,8 @@
       "extensionButton.background": "#ffad578f",
       "keybindingLabel.border": "#ffae5700",
       "keybindingLabel.bottomBorder": "#ffae5700",
-      "keybindingLabel.background": "#ffad578f"
+      "keybindingLabel.background": "#ffad578f",
+      "editorGhostText.border": "#000000", 
+      "editorGhostText.foreground": "#de1669",
     }
   }
