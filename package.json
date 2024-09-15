@@ -1,7 +1,7 @@
 {
   "name": "spaceship-theme",
   "displayName": "SpaceShip theme",
-  "description": "High-contrast theme for Visual Studio Code with a completely black background, designed to enhance readability and reduce eye strain.",
+  "description": "High-contrast theme for Visual Studio Code.",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.93.0"
